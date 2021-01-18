@@ -8,6 +8,6 @@ Following paper:
 2) 1311.2524.pdf    -  [RCNN : Rich feature hierarchies for accurate object detection and semantic](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1311.2524.pdf)
 3) 1505.04597.pdf   -  [UNet :: Convolutional Networks for Biomedical Image Segmentation](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1505.04597.pdf)
 4) 1904.10633 .pdf -  [LFFD: A Light and Fast Face Detector for Edge Devices](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1904.10633%20(4).pdf)
-
+5) 1905.11946v5 (1) (1).pdf - [EfﬁcientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1905.11946v5%20(1)%20(1).pdf)
 
 > In case of any doubt, complaint or request, DM on **kunalkarda21@gmail.com**
