@@ -10,6 +10,7 @@ Following paper:
 4) 1904.10633 .pdf -  [LFFD: A Light and Fast Face Detector for Edge Devices](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1904.10633%20(4).pdf)
 5) 1905.11946v5 (1) (1).pdf - [EfﬁcientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1905.11946v5%20(1)%20(1).pdf)
 6) 1611.07004.pdf - [Image-to-Image Translation with Conditional Adversarial Networks](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1611.07004%20.pdf)
+7) 1612.03144.pdf- [Feature Pyramid Networks for Object Detection](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1612.03144%20(2).pdf)
 
 
 > In case of any doubt, complaint or request, DM on **kunalkarda21@gmail.com**
