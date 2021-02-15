@@ -13,5 +13,6 @@ Following paper:
 7) 1612.03144.pdf- [Feature Pyramid Networks for Object Detection](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1612.03144%20(2).pdf)
 8) 2101.03697.pdf - [RepVGG: Making VGG-style ConvNets Great Again
 ](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/2101.03697.pdf)
+9) 2102.06171.pdf - NFNet: [High-Performance Large-Scale Image Recognition Without Normalization](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/2102.06171%20(1).pdf)
 
 > In case of any doubt, complaint or request, DM on **kunalkarda21@gmail.com**
