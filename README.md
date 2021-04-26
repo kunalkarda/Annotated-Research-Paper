@@ -16,6 +16,6 @@ Following paper:
 9) 2102.06171.pdf - NFNet: [High-Performance Large-Scale Image Recognition Without Normalization](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/2102.06171%20(1).pdf)
 10) 1506.02640.pdf - [You Only Look Once: YOLO v1](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/1506.02640.pdf)
 11) Malware Evasion Attack and Defense.pdf- [An Empirical Analysis of Image-Based Learning Techniques forMalware Classification](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/Malware%20Evasion%20Attack%20and%20Defense.pdf)
-12) [TRAINING BATCHNORM AND ONLY BATCH NORM](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/TRAINING%20BATCH%20NORM%20AND%20ONLY%20BATCH%20NORM%20.pdf) 
+12) [TRAINING BATCHNORM AND ONLY BATCH NORM](https://github.com/kunalkarda/Annotated-Research-Paper/blob/main/TRAINING%20BATCH%20NORM%20AND%20ONLY%20BATCH%20NORM%20.pdf) ICLR 2021
 
 > In case of any doubt, complaint or request, DM on **kunalkarda21@gmail.com**
